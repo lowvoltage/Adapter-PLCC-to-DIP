@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sat 13 Jul 2013 09:42:54 PM EEST
+
+BeginCmp
+TimeStamp = /51E19F39;
+Reference = U1;
+ValeurCmp = 27C080;
+IdModule  = DIP-32__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E19F5E;
+Reference = U2;
+ValeurCmp = 27C080;
+IdModule  = plcc32_pth-skt;
+EndCmp
+
+EndListe
